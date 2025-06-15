@@ -31,7 +31,7 @@
 ✓ Cloud platform integrations (Drive/Dropbox)  
 
 ### 📚 Study Notion - EdTech Platform  
-[![Live Demo](https://img.shields.io/badge/LIVE-Study_Notion-000?style=for-the-flat)](https://study-notion.vercel.app)  
+[![Live Demo](https://img.shields.io/badge/LIVE-Study_Notion-000?style=for-the-flat)](https://studynotion-frontend.vercel.app/)  
 *React | Tailwind | REST API | JWT Auth*  
 ✓ Payment gateway integration  
 ✓ OTP-based authentication  
