@@ -1,60 +1,115 @@
-# 👋 Hi, I'm Shivam Kumar  
 
-**Frontend Engineer** specializing in high-performance React & Next.js applications ⚡  
-*Building scalable UIs with 90%+ efficiency gains through AWS-integrated solutions*  
+# 👋 Hi, I’m Shivam Kumar
 
----
+**Frontend Engineer** specializing in high-performance React & Next.js applications ⚡
 
-## 🚀 Frontend Expertise  
-
-**Core Technologies**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Testing & Tooling**  
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+Building scalable UIs and AWS-integrated solutions with proven 90%+ efficiency gains.
 
 ---
 
-## 💼 Featured Projects  
+## 🔗 Connect With Me
 
-### 🧠 Intelligent Document Processing System  
-[![Live Demo](https://img.shields.io/badge/LIVE-Docscience.ai-38B2AC?style=for-the-flat)](https://www.docscience.ai)  
-*React | Redux | AWS Lambda | Cypress*  
-✓ 90% operational efficiency gain  
-✓ 80% manual processing reduction  
-✓ Cloud platform integrations (Drive/Dropbox)  
-
-### 📚 Study Notion - EdTech Platform  
-[![Live Demo](https://img.shields.io/badge/LIVE-Study_Notion-000?style=for-the-flat)](https://studynotion-frontend.vercel.app/)  
-*React | Tailwind | REST API | JWT Auth*  
-✓ Payment gateway integration  
-✓ OTP-based authentication  
-✓ Instructor dashboard  
-
-### 🌐 Nexyom Company Website  
-[![Live Demo](https://img.shields.io/badge/LIVE-Nexyom.com-38B2AC?style=for-the-flat)](https://www.nexyom.com)  
-*Next.js | JSON CMS | Responsive Design*  
-✓ 50% faster content updates  
-✓ SEO-optimized performance  
+- 📞 +91 76689 55567
+- 📍 Noida, Uttar Pradesh, India
+- ✉️ [shivamkumar02517@gmail.com](mailto:shivamkumar02517@gmail.com)
+- 🌐 [Portfolio](https://kumarshivam04203.github.io/Portfolio-Website/)
+- 🐙 [GitHub](https://github.com/kumarshivam04203)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shivamkumar02517/)
 
 ---
 
-## 📊 GitHub Highlights  
+## 🚀 Summary
 
-<a href="https://github.com/kumarshivam04203">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kumarshivam04203&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarshivam04203&layout=compact&langs_count=8&theme=react"/>
-</a>
+Frontend Engineer with 2 years of experience building high-performance, responsive web applications using React.js and Next.js. Skilled in designing and optimizing frontend architectures, integrating AWS Lambda & API Gateway, and driving operational efficiency gains of up to 90%. Proven track record in leading projects end-to-end and mentoring teams for best practices in code quality and testing.
 
 ---
 
-## 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamkumar02517/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-flat&logo=gmail&logoColor=white)](mailto:shivamkumar02517@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-flat&logo=google-chrome&logoColor=white)](https://kumarshivam04203.github.io/Portfolio-Website/)
+## 💡 Skills
+
+### Frontend & UI
+
+- **Frameworks & Libraries:** React.js, Next.js, Redux, TypeScript, JavaScript (ES6+)
+- **Styling:** Tailwind CSS, Material UI, SCSS, HTML5, CSS3
+- **Internationalization & Accessibility:** i18n, WAI-ARIA standards
+
+### Testing & Quality
+
+- **Testing:** Jest, Cypress, AIO Testing, Manual & Automated Testing, Functional & Performance Testing
+- **Tools:** ESLint, Prettier, Storybook, Microsoft Clarity
+
+### Backend & APIs
+
+- **Runtime & Frameworks:** Node.js, Express, FastAPI
+- **Databases & Storage:** MongoDB, AWS S3
+- **Authentication & Security:** JWT, OAuth, Multi-Factor Authentication
+
+### DevOps & Cloud
+
+- **Cloud Platforms:** AWS (Lambda, API Gateway, EC2, S3)
+- **CI/CD & Containers:** GitHub Actions, Docker
+- **APIs & Documentation:** REST API Integration, API Documentation (ApiDog, Postman)
+
+### Other Tools
+
+- Git, GitHub, Vercel, Figma, JIRA, JEST, Postman
+
+---
+
+## 💼 Experience
+
+**Software Developer Engineer (Frontend)**  
+**Nexyom Consultancy Service Private Limited**, Noida, India · Jun 2024 – Present
+
+- Architected and led frontend development of an Intelligent Document Processing (IDP) system using React.js & Redux, boosting processing efficiency by 90%.
+- Integrated AWS Lambda & API Gateway to create secure, low-latency backend communication, reducing API response times by 20%.
+- Resolved Cypress testing failures in CI/CD pipelines, ensuring 100% automated test coverage for core modules.
+- Documented API integration workflows in Confluence to standardize team knowledge sharing.
+
+**Associate Software Engineer (Frontend)**  
+**Nexyom Consultancy Service Private Limited**, Noida, India · Jan 2024 – May 2024
+
+- Developed core UI components in React.js & Tailwind CSS, improving UX metrics by 30%.
+- Mentored junior developers through code reviews and pair programming, enforcing ESLint and coding best practices.
+- Automated API testing frameworks with Jest & Cypress, increasing test reliability and reducing manual QA efforts.
+
+**Intern – Frontend Development**  
+**Nexyom Consultancy Service Private Limited**, Noida, India · Jun 2023 – Dec 2023
+
+- Built and deployed dynamic, responsive company websites with React.js & Tailwind CSS for Nexyom and DocScience.
+- Implemented JSON-driven CMS for rapid content updates, reducing manual update time by 50%.
+- Gained hands-on experience with Git, agile workflows, and feature-driven component architecture.
+
+---
+
+## 📚 Projects
+
+**Intelligent Document Processing System**  
+_Tech Stack_: React.js • Redux • AWS Lambda • API Gateway • Cypress • Jest • Docker • Proxy Server • CI/CD
+- Designed a 5-step custom training pipeline for document models, achieving 90% processing efficiency.
+- Integrated Google Drive, Zoho, Microsoft, and Dropbox for seamless file exchange, cutting manual processing by 80%.
+
+**DocScience IDP Hub**  
+_Tech Stack_: React.js • Redux • API Gateway • JWT • Cypress • ApiDog
+- Developed role-based user management with JWT authentication and multi-factor support.
+- Implemented notifications, analytics dashboards, and credit management, boosting user engagement by 25%.
+
+**Study Notion – EdTech Platform**  
+_Tech Stack_: React.js • Tailwind CSS • Redux • Node.js • Express • MongoDB • JWT • Cloudinary
+- Built OTP-based authentication and payment gateway integration for a secure user experience.
+- Created instructor dashboards and content management features, enabling seamless frontend–backend interactions.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology in Electronics & Communication Engineering**  
+Raj Kumar Goel Institute Of Technology, Ghaziabad · Jul 2019 – Jun 2023  
+_CGPA: 8.29_
+
+---
+
+## 🏆 Achievements & Impact
+
+- Automated workflows to improve efficiency by 90% and reduce manual steps by 80%.
+- Reduced content update time by 50% through JSON-based CMS implementation.
+- Enhanced platform security and reliability through best-practice documentation and rigorous testing.
