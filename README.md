@@ -42,8 +42,20 @@ Specializing in:
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws)
 
-### Familiar With  
-Node.js | Express | REST APIs | MongoDB  | Docker
+### 🧩 Familiar With
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb\&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST_API-6DB33F?logo=postman\&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi\&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker\&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?logo=githubactions\&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman\&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git\&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira\&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma\&logoColor=white)
 
 ---
 
