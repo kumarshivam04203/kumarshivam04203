@@ -6,7 +6,7 @@
 ---
 
 ## 🔗 Connect With Me  
-[![Email](https://img.shields.io/badge/Email-shivamkumar02517@gmail.com-D14836?logo=gmail)](mailto:shivamkumar02517@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-shivamkumar02517@gmail.com-4B5563?logo=gmail&logoColor=white)](mailto:shivamkumar02517@gmail.com) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-4285F4?logo=google-chrome)](https://kumarshivam04203.github.io/Portfolio-Website/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivam_Kumar-0077B5?logo=linkedin)](https://www.linkedin.com/in/shivamkumar02517/)  
 [![GitHub](https://img.shields.io/badge/GitHub-kumarshivam04203-181717?logo=github)](https://github.com/kumarshivam04203)  
